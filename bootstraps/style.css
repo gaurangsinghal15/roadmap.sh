@@ -1,0 +1,17 @@
+body{
+    background-color: aliceblue;
+    font-family: 'Calibri';
+}
+.gridbordergrey{
+    border: 5px solid rgb(253, 68, 0);
+}
+#header{
+    height: 50px;
+    background: linear-gradient(to right, rgb(255, 115, 0), white, green);
+}
+p{
+    font-size: 18px;
+}
+.fullwidth{
+   width: 100%;
+}
